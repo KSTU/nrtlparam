@@ -1,4 +1,6 @@
 nrtlparam
+
+
 =========
 
-Determine parameter of NRTL model for binar
+Determine parameter of NRTL model
