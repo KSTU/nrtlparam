@@ -1,0 +1,15 @@
+#First substance points filename
+test1
+#Second substance points filename
+null 
+#Equation 1 - NRTL 2 - debug
+1
+#Lambda minimum
+0.000001
+#Numbers of steps
+50000
+#alpha equation
+1
+#tau equation
+3
+
